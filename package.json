@@ -42,7 +42,7 @@
     "imports": "^1.0.0",
     "jest": "^24.1.0",
     "node-libs-browser": "^2.0.0",
-    "parcel": "^1.11.0",
+    "parcel": "^2.16.1",
     "rimraf": "^2.6.3",
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
